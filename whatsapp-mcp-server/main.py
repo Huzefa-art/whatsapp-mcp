@@ -1,3 +1,5 @@
+import utils.transport
+import utils.session
 from typing import List, Dict, Any, Optional
 from mcp.server.fastmcp import FastMCP
 from whatsapp import (
